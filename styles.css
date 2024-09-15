@@ -29,3 +29,6 @@ $grey: #f6f6fa;
   border-bottom: 0.5px solid #7270bb;
   a {
     color: $white;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
